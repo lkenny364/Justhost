@@ -6,7 +6,7 @@ JustHost自2006年以来提供可靠的服务器托管服务。特别提醒：�
 
 官方网站：[访问JustHost](https://justhost.asia/?ref=196392)
 
-https://justhost.asia/?ref=196392
+
 
 
 ## JustHost 优惠码
